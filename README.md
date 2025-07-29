@@ -1,10 +1,13 @@
 # Influences on LLM Calibration
 
 
-<h2><a href="https://aclanthology.org/2025.acl-long.188.pdf" style="color: red;">Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles</a></h2>  
-<strong>Yuxi Xia, Pedro Henrique Luz De Araujo, Klim Zaporojets, Benjamin Roth</strong>  
+<h3><a href="https://aclanthology.org/2025.acl-long.188.pdf" style="color: crimson; text-decoration: none;">
+Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles
+</a></h3>
 
-<strong>Accepted at ACL 2025<strong>
+<p><strong>Authors:</strong> Yuxi Xia, Pedro Henrique Luz De Araujo, Klim Zaporojets, Benjamin Roth  
+<br><em>Accepted at ACL 2025 (Association for Computational Linguistics)</em></p>
+
 ---
 
 ## 📁 Project Structure
@@ -28,6 +31,8 @@
 - `src/evaluate_prom_score.py`
 
 ---
+
+
 
 ## 📖 Acknowledgements
 
