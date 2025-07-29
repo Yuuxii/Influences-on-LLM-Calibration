@@ -1,16 +1,18 @@
 # Influences on LLM Calibration
 
 This repository contains the source code for the paper:  
-**_Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles_**
+### Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles  
+**Yuxi Xia, Pedro Henrique Luz De Araujo, Klim Zaporojets, Benjamin Roth**  
+[📄 PDF](https://aclanthology.org/2025.acl-long.188.pdf)
 
 ---
 
 ## 📁 Project Structure
 
-### 🔧 Training the Model
+###  Training the Model
 - `src/train.py` — Main script for training models.
 
-### 🧪 Data Preparation & Answer Generation
+###  Data Preparation & Answer Generation
 
 #### Generate Answers
 - **OpenAI-style API generation**:  
