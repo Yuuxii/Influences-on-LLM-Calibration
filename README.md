@@ -1,9 +1,8 @@
 # Influences on LLM Calibration
 
-This repository contains the source code for the paper:  
-### Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles  
-**Yuxi Xia, Pedro Henrique Luz De Araujo, Klim Zaporojets, Benjamin Roth**  
-[📄 PDF](https://aclanthology.org/2025.acl-long.188.pdf)
+
+### [Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles](https://aclanthology.org/2025.acl-long.188.pdf)  
+**Yuxi Xia, Pedro Henrique Luz De Araujo, Klim Zaporojets, Benjamin Roth**
 
 ---
 
